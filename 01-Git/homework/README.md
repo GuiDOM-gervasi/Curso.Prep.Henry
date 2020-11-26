@@ -103,7 +103,7 @@ A continuación, escribe lo siguiente en tu terminal:
 
 ```bash
   $ cd henry
-  $ touch archivo-ejemplo.js
+  $ touch    
 ```
 
 Esto añadirá un nuevo archivo llamado "archivo-ejemplo.js" a tu proyecto.
